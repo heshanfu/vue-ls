@@ -7145,9 +7145,9 @@ schema-utils@^0.4.4, schema-utils@^0.4.5:
     ajv "^6.1.0"
     ajv-keywords "^3.1.0"
 
-selenium-server@^3.14.0:
-  version "3.14.0"
-  resolved "https://registry.yarnpkg.com/selenium-server/-/selenium-server-3.14.0.tgz#09b79bfebe38d1d3611b7848e0edcf9ac6a54955"
+selenium-server@^3.141.0:
+  version "3.141.0"
+  resolved "https://registry.yarnpkg.com/selenium-server/-/selenium-server-3.141.0.tgz#20e550518a36a50d05f11741e6cdf6a0597c09c9"
 
 semver-compare@^1.0.0:
   version "1.0.0"
